@@ -1,0 +1,1 @@
+streamlit edge-tts beautifulsoup4 ebooklib requests
