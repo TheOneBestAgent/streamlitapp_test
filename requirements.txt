@@ -1,1 +1,1 @@
-streamlit edge-tts beautifulsoup4 ebooklib requests
+streamlit, edge-tts, beautifulsoup4, ebooklib, requests
